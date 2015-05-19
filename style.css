@@ -426,6 +426,9 @@ table {
 	margin: 0 0 1.5em;
 	width: 100%;
 }
+.entry-content p, .entry-content h3, .entry-header{
+	margin:20px;
+}
 
 /*--------------------------------------------------------------
 # Forms
