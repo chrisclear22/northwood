@@ -1077,7 +1077,9 @@ object {
    color: #000 !important;
    padding: 30px 60px !important;
 }
-
+.soliloquy-container{
+	margin-bottom: 0px !important;
+}
 /*--------------------------------------------------------------
 ## Google Maps
 --------------------------------------------------------------*/
