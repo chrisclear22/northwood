@@ -1082,8 +1082,8 @@ object {
 ## Google Maps
 --------------------------------------------------------------*/
 
-.google-maps-builder-wrap {
-   padding-left: 8%;
+.google-maps-builder{
+   margin: auto;
 }
 
 
