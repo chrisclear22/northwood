@@ -561,10 +561,15 @@ input[type="search"] {
 .search-toggle:hover,
 .search-toggle.active {
    background: #4d4d4d;
+   text-decoration: none;
 }
 
 h1.site-title a {
    color: #506974;
+}
+
+h1.site-title a:hover {
+   text-decoration: none;
 }
 
 h1.site-title a:visited {
@@ -572,7 +577,7 @@ h1.site-title a:visited {
 }
 
 .site-branding .site-title {
-   padding-left: 2em;
+   padding-left: 2.5em;
    margin: 0.67em 0 .5em;
 }
 
@@ -640,7 +645,7 @@ a:active {
 }
 
 .main-navigation ul li:first-child {
-   padding-left: 5em;
+   padding-left: 6em;
 }
 
 .main-navigation ul ul > li:first-child {
