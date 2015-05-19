@@ -448,6 +448,10 @@ input[type="submit"] {
    -webkit-appearance: button; /* Corrects inability to style clickable 'input' types in iOS */
 }
 
+.wu-wrapper .wu-search input, .wu-wrapper .wu-search input:focus {
+   background: transparent;
+}
+
 button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
@@ -924,6 +928,14 @@ a:active {
 .page-links {
 	clear: both;
 	margin: 0 0 1.5em;
+}
+
+.site-main {
+   background-image: url("images/concrete_seamless2.jpg");
+}
+
+.widget-area {
+   background-image: url("images/concrete_seamless3.jpg");
 }
 
 /*--------------------------------------------------------------
