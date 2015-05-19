@@ -43,6 +43,7 @@ Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
 	## Captions
 	## Galleries
 	## Soliloquy
+	## Google Maps
 # Responsive
 --------------------------------------------------------------*/
 
@@ -1076,6 +1077,15 @@ object {
    color: #000 !important;
    padding: 30px 60px !important;
 }
+
+/*--------------------------------------------------------------
+## Google Maps
+--------------------------------------------------------------*/
+
+.google-maps-builder-wrap {
+   padding-left: 8%;
+}
+
 
 /*--------------------------------------------------------------
  # Footer
