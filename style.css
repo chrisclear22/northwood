@@ -1111,6 +1111,11 @@ object {
    text-align: center;
 }
 
+.tribe-events-notices {
+   background: url("images/concrete_seamless2.jpg");
+   border: none;
+   color: #506974;
+}
 /*--------------------------------------------------------------
  # Footer
 --------------------------------------------------------------*/
