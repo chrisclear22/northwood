@@ -12,7 +12,7 @@
 
 	<footer id="colophon" class="site-footer col-md-12" role="contentinfo">
 		<div class="site-info">
-         
+         <?php get_sidebar( 'footer' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
