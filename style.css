@@ -283,11 +283,16 @@ textarea {
 
 h1,
 h2,
-h3,
+h3{
+   font-family: Lobster, sans-serif;
+   clear: both;
+}
+
+
 h4,
 h5,
 h6 {
-   font-family: Lobster, sans-serif;
+   font-family: Arial, sans-serif;
    clear: both;
 }
 
