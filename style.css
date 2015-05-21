@@ -656,11 +656,11 @@ a:active {
    color: #000;
 }
 
-.main-navigation ul li:first-child {
+ul#primary-menu li:first-child {
    padding-left: 6em;
 }
 
-.main-navigation ul ul > li:first-child {
+ul#primary-menu ul > li:first-child {
    padding-left: 0;
 }
 
@@ -951,7 +951,7 @@ a:active {
 	margin: 0 0 1.5em;
 }
 
-.site-main {
+#primary {
    background-image: url("images/concrete_seamless2.jpg");
 }
 
@@ -1201,7 +1201,7 @@ object {
    }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 667px) {
    #menu-social ul {
       position: absolute;
       top: 0;
@@ -1217,7 +1217,7 @@ object {
    }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 667px) {
    .menu-toggle {
       display: block;
       height: 3.75em;
@@ -1296,7 +1296,7 @@ object {
 
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 667px) {
    #menu-social ul {
       position: absolute;
       top: 0;
@@ -1310,7 +1310,7 @@ object {
    }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 667px) {
    .search-toggle {
       position: absolute;
       top: 0;
