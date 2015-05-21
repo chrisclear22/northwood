@@ -1,3 +1,3 @@
 jQuery(document).ready(function($) {
-    $("#secondary").css({'height':($(".site-main").height()+'px')});
+    $("#secondary").css({'height':($(".content-area").height()+'px')});
 });
