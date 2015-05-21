@@ -1158,6 +1158,10 @@ object {
    background-color: #506974;
 }
 
+.tribe-events-list-widget ul, .tribe-events-list-widget ol {
+   margin: 0 0 1.5em 0em;
+}
+
 /*--------------------------------------------------------------
  # Footer
 --------------------------------------------------------------*/
