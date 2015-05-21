@@ -947,6 +947,20 @@ a:active {
    background-image: url("images/concrete_seamless2.jpg");
 }
 
+.site-main.col-md-8 {
+    width: auto;
+}
+
+.site-header.col-md-12 {
+   padding-right: 0;
+   padding-left: 0;
+}
+
+.widget_simpleimage .simple-image, .widget_simpleimage {
+   margin-bottom: 0;
+}
+
+
 #secondary {
    background-image: url("images/concrete_seamless3.jpg");
 }
