@@ -951,7 +951,7 @@ a:active {
     width: auto;
 }
 
-.site-header.col-md-12 {
+.site-header.col-md-12, .content-area.col-md-12 {
    padding-right: 0;
    padding-left: 0;
 }
